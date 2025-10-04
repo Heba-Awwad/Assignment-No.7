@@ -1,4 +1,4 @@
-SVM model
+
 Load dataset.CSV and detected diagnosis as the target. I label-encoded it (B -> 0, M -> 1).
 
 Selected two features automatically by absolute correlation to the target and plotted the 2D scatter (classes shown separately).
